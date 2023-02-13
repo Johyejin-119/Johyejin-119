@@ -21,7 +21,7 @@
   <br>  <br>  <br>
   
   
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohyejin-119&count_bg=%23DAB9DB&title_bg=%2384778A&icon=&icon_color=%23C04D4D&title=hits&edge_flat=false"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejinjo0101@gmail.com)](mailto:hyejinjo0101@gmail.com) <a href="[https://yeonyeon.tistory.com](https://velog.io/@yeppi)"><img src="https://img.shields.io/badge/<Yeppi's 개발 일기>-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> [![Solved.ac Beakjun](http://mazassumnida.wtf/api/mini/generate_badge?boj=arijo99)](https://solved.ac/arijo99)
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohyejin-119&count_bg=%23DAB9DB&title_bg=%2384778A&icon=&icon_color=%23C04D4D&title=hits&edge_flat=false"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejinjo0101@gmail.com)](mailto:hyejinjo0101@gmail.com) <a href="https://velog.io/@yeppi"><img src="https://img.shields.io/badge/<Yeppi's 개발 일기>-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> [![Solved.ac Beakjun](http://mazassumnida.wtf/api/mini/generate_badge?boj=arijo99)](https://solved.ac/arijo99)
  
 </div>
 
