@@ -1,8 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=E58BA6&height=300&section=header&text=Yeppi's%20Github%20Profile&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=E58BA6&height=250&section=header&text=Yeppi's%20Github%20Profile&fontSize=55&animation=fadeIn)
   
-  <br>
   <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johyejin-119&show_icons=true&theme=dracula)
@@ -23,27 +22,20 @@
   
   
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJohyejin-119&count_bg=%23DAB9DB&title_bg=%2384778A&icon=&icon_color=%23C04D4D&title=hits&edge_flat=false"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejinjo0101@gmail.com)](mailto:hyejinjo0101@gmail.com) <a href="[https://yeonyeon.tistory.com](https://velog.io/@yeppi)"><img src="https://img.shields.io/badge/<Yeppi's 개발 일기>-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> [![Solved.ac Beakjun](http://mazassumnida.wtf/api/mini/generate_badge?boj=arijo99)](https://solved.ac/arijo99)
-  
-
-
+ 
 </div>
 
 <br>
 
-<hr>
 
-<br>
+<details align="center">
+<summary>Tech Stack</summary>
+  <div markdown="1" align="center">
 
-<div align="center">
-  
-  **:white_square_button: Tech Stack :white_square_button:**
-  <br>  <br>
-
-   
   :ballot_box_with_check: used as the main :ballot_box_with_check:
-  
+
   <br>
-  
+    
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
@@ -58,11 +50,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
   <br><br>
-  
+
   :ballot_box_with_check: used as least once :ballot_box_with_check:
-  
+
   <br>
-  
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -82,12 +74,14 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 
-  
-  
-  <br><br><br>
+  </div>
+</details>
 
-  **:white_square_button: Cowork tools :white_square_button:**
-  
+
+<details align="center">
+<summary style="font-size: 100px">Cowork tools</summary>
+  <div markdown="1" align="center">
+
   <br>
 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -104,34 +98,14 @@
   <br>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
-    
-  
-</div>
+
+  </div>
+</details>
 
 <br>
 
-<hr>
-
-<br>
-
-  
 <div align="center">
-  <br> 
-  <br>
 
-  
-  <a href="https://github.com/Johyejin-119/baekjoonAlgorithm.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Johyejin-119&repo=baekjoonAlgorithm" />
-  </a>
-  <br>
-  <a href="https://github.com/HiAvatar/backend.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiAvatar&repo=backend" />
-  </a>
-  <br>
-  <a href="https://github.com/yongseungLeeDec/fastbank-backend.git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yongseungLeeDec&repo=fastbank-backend" />
-  </a>
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E58BA6&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=E58BA6&height=150&section=footer)
 
 </div>
